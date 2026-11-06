@@ -4,6 +4,48 @@ A **Iara** é a assistente de Procuradoria no Super Sapiens, dentro do app Claud
 (aba **Code**). Este repositório tem só o executável, sem código-fonte. Não
 precisa de Python, de conta no GitHub nem de terminal: peça ao Claude.
 
+**Quase tudo o que se faz no Super Sapiens pode ser pedido conversando.** Você
+escreve em português e a Iara faz: consulta, organiza, prepara e minuta. Nada é
+gravado no Super Sapiens sem o seu "sim": antes de agir, ela mostra o que vai fazer.
+
+## O que dá para pedir
+
+- **Consultar** tarefas, processos e documentos: "quais tarefas de hoje são de
+  contestação?", "o que decidiu a última sentença deste processo?".
+- **Perguntar algo a várias tarefas de uma vez** e ver as respostas lado a lado.
+- **Organizar** tarefas: etiquetar, mover de pasta, trocar setor ou responsável.
+- **Preparar a peça**: a Iara lê o processo, sugere a providência, escolhe os
+  documentos e monta um briefing com você.
+- **Minutar**: redige a peça pelo modelo do Super Sapiens e anexa a minuta,
+  editável, à tarefa. Você revisa no editor de sempre.
+- **Ofícios e comunicações**, com prazo contado em dias úteis.
+- **Assinar minutas**, com a senha guardada no cofre do Windows (nunca passa
+  pela conversa).
+
+## Como está organizada
+
+- **Skills** (os comandos da conversa): `/iara` para qualquer pedido, `/preparar`
+  para o briefing da peça e `/minutar` para a minuta.
+- **Subagentes**, ajudantes que a Iara aciona sozinha: um analisa tarefas, outro
+  prepara, outro minuta, outro resume documentos longos, outro revisa a minuta
+  quando você pede.
+- **Ferramentas** que ligam a conversa ao Super Sapiens: leitura do processo,
+  preparo, minuta, organização de tarefas, assinatura.
+- **Biblioteca**: uma pasta de notas suas (teses, orientações). As correções que
+  você faz viram regra ali, e a Iara aprende com o uso.
+- **Linha de comando** (opcional), para trabalho em lote: carregar a pasta,
+  triar (observação e etiquetas automáticas) e criar minutas por regras.
+- **Páginas de configuração e de regras**, abertas no navegador, sem editar arquivo.
+
+## O que precisa
+
+- Windows, o app Claude e login na Rede AGU com o código 2FA.
+- Chave de outro provedor de IA é opcional: só a triagem em lote usa.
+- Processo sigiloso não vai para IA na nuvem (padrão).
+- Cerca de 250 MB em disco.
+
+## Instalar
+
 **Para o (a) Procurador(a):** abra o app Claude, entre na aba Code numa pasta vazia
 (ex.: `Documentos\Iara`) e escreva:
 
