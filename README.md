@@ -4,7 +4,7 @@ A **Iara** é a assistente de Procuradoria no Super Sapiens, dentro do app Claud
 (aba **Code**). Este repositório tem só o executável, sem código-fonte. Não
 precisa de Python, de conta no GitHub nem de terminal: peça ao Claude.
 
-**Para o (a) Procurador(a)(a):** abra o app Claude, entre na aba Code numa pasta vazia
+**Para o (a) Procurador(a):** abra o app Claude, entre na aba Code numa pasta vazia
 (ex.: `Documentos\Iara`) e escreva:
 
 > Instale a Iara seguindo https://github.com/iara-agu/iara-releases
