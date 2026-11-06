@@ -1,6 +1,6 @@
 # Iara — executável para Windows
 
-A **Iara** é a assistente do procurador no Super Sapiens, dentro do app Claude
+A **Iara** é a assistente de Procuradoria no Super Sapiens, dentro do app Claude
 (aba **Code**). Este repositório tem só o executável, sem código-fonte. Não
 precisa de Python, de conta no GitHub nem de terminal: peça ao Claude.
 
