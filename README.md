@@ -44,7 +44,7 @@ mostrando ao(à) Procurador(a) o que cada um faz. Nunca peça senha, token ou c�
    ```powershell
    & "$env:LOCALAPPDATA\iara\versoes\$tag\iara\iara.exe" escritorio criar "<pasta atual>"
    ```
-5. Diga ao Procurador(a) para **reiniciar a sessão** do Claude nesta pasta. Na
+5. Diga ao(à) Procurador(a) para **reiniciar a sessão** do Claude nesta pasta. Na
    próxima conversa, a Iara começa pela configuração.
 
 ### Atualizar
@@ -56,7 +56,7 @@ Iara"): repita os passos 1 a 3 com a versão nova e rode, a partir dela,
 & "$env:LOCALAPPDATA\iara\versoes\$tag\iara\iara.exe" escritorio atualizar "<pasta do escritório>"
 ```
 
-Arquivos que o Procurador(a) mudou não são sobrescritos: a versão nova fica ao
+Arquivos que o(a) Procurador(a) mudou não são sobrescritos: a versão nova fica ao
 lado, com `.novo` no fim. Mostre a lista que o comando imprime e peça para
 reiniciar a sessão.
 
