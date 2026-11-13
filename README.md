@@ -87,7 +87,7 @@ para pedir a minuta direto, com uma instrução sua.
   Iara lê os processos e responde; a proposta segue as suas regras ao pé da letra, e resposta
   duvidosa fica para você decidir.
 - **Fluxos de várias etapas**, como o ciclo do Pró-Estratégia: nota juntada ao processo sem encerrar
-  e, depois, petição peticionada encerrando a tarefa — cada passo com a sua confirmação.
+  e, depois, petição protocolada encerrando a tarefa — cada passo com a sua confirmação.
 - **"Lembre disso"**: o procedimento que deu certo fica guardado para as próximas conversas;
   "daqui pra frente, na contestação, sempre olhe X" vira regra sua.
 
