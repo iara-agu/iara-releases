@@ -30,18 +30,15 @@ acesso livre a ela. A diferença está no que fica entre a IA e o sistema:
 | Saber como fazer | Cada um descobre as rotas e os campos | Procedimentos já testados no Super Sapiens (juntar, peticionar, mover, etiquetar, ofício...) e catálogo da API, que avisa quando a versão muda |
 | Registro | Depende de quem escreveu o script | Cada alteração fica registrada no seu computador |
 
-E a **iAGU**, a IA do próprio Super Sapiens? Ela trabalha dentro da minuta. A Iara cobre o resto do
-caminho e soma o que é seu:
+E a **iAGU**, a IA do próprio Super Sapiens? Ela trabalha dentro da minuta. A Iara também minuta, e
+vai além:
 
 | | iAGU | Iara |
 |---|---|---|
-| Onde atua | Dentro da minuta | Do carregamento ao peticionamento: triagem, preparo, minuta, assinatura, atividade |
+| Onde atua | Dentro da minuta | Na minuta e em todo o caminho: carregamento, triagem, preparo, assinatura, juntada ou peticionamento |
 | Suas notas e teses | Não usa | Lê a sua biblioteca, cita a fonte e guarda as suas correções |
 | Várias tarefas de uma vez | Não permite | Mesma pergunta a muitas tarefas, respostas lado a lado; triagem pelo seu roteiro |
 | Rotina da unidade | Não permite | Roteiros, procedimentos e "lembre disso" que valem nas próximas vezes |
-
-As duas se somam: quando o Super Sapiens já tem o Formulário de IA de um documento, a Iara usa o dele.
-
 ### Segurança
 
 - **Sigilo antes de tudo.** Processo com sinal de sigilo — ou sem informação sobre isso — não vai para
